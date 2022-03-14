@@ -1,2 +1,2 @@
 # Meme-Understanding
-Meme Understanding using NLP and Imeage Analysis 
+Meme Understanding using NLP and image analysis.
